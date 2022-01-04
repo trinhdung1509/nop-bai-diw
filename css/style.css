@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Roboto&display=swap');
+.dow a:hover {
+	opacity: 70%;
+}
+#MARKETPLACE img:hover{
+opacity: 70%;
+}
+#gameplay{
+	margin: 0;
+	padding: 0px;
+	height: 2400px;
+	display: flex;
+
+}
+.slider{
+	height:2500px;
+	border-radius: 10px;
+	overflow: hidden;
+	
+}
+.slides{
+	display: flex;
+}
+.slides input{
+	display: none;
+}
+.slide{
+	width: 200px;
+	transition: 2s;
+}
+.col-md-3 backround:hover{
+	opacity: 80%;
+	
+}
+.Buy{
+	text-align: center;
+	padding: 50px:
+}
+footer{
+	text-align: center;font-family: 'Roboto', sans-serif;
+	background: #212121;
+	padding-top: 30px;
+}
+.footer-bt{
+	padding: 10px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+@media screen and (max-width:600px){
+	#Thetancoin img {
+		width:350px !important;
+	}
+	#Thetancoin p{
+		font-size: 15px !important	
+	}
+
+
+	#Thetancoin h1{
+		padding: 5px;
+	}
+	#video video{
+		width: 350px !important
+	}
+	#video video{
+		height: 300px !important
+	}
+	#gameplay img{
+		width: 400px !important
+	}
+	#gameplay{
+		height: 600px !important
+	}
+	.d-flex h1{
+		font-size:70px !important
+		
+	}
+
+	.d-flex p{
+		font-size: 12px !important
+	}
+	.d-flex h4{
+		font-size: 20px !important
+	}
+	.dow img{
+		width: 190px !important
+	}
+	.songuoichoi img {
+		width: 0000px !important
+	}
+	.benphai img {
+		width: 150px !important
+	}
+	.flex1 p {
+		font-size: 10px !important
+	}
+	.benphai img{
+		width:0000px !important
+	}
+	
+	
+	
+	
